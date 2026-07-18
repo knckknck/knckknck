@@ -1,2 +1,1 @@
-no perfect systems here
-just progress, noise, and a bit of obsession
+COBOL still runs the world, quietly
